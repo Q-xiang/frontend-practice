@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.tmp
+
+# VSCode 编辑器配置文件夹
+.vscode/
+
+# 日志文件
+*.log
+
+# 编辑器自动生成的备份文件
+*.bak
